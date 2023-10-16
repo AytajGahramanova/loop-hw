@@ -53,3 +53,16 @@
 //         console.log(b);
 // }
 // console.log("sum:", sum);
+
+            
+// duzgun gedisati //
+// let eded = parseInt(prompt("ededi daxil edin:"));
+// let tekrar = parseInt(prompt("tekrar sayini daxil edin:"));
+// let sum = 0;
+// let total = 0;
+// for(let i = 0; i < tekrar; i++){
+//     sum = sum*10 + eded;
+//     console.log(sum);
+//     total += sum;
+// }
+// console.log(total);
